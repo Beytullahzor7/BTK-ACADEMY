@@ -1,0 +1,4 @@
+Burak Yılmaz:80,70,90
+Ahmet Akman:80,70,50
+Fatma Kara:50,60,70
+Beytullah Zor:100,100,98
